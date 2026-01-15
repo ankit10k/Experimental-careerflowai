@@ -1,0 +1,7 @@
+{
+  "name": "CareerFlow AI",
+  "description": "An AI-powered career coach providing expert guidance on professional goals and career planning through real-time voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
